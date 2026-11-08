@@ -6,7 +6,7 @@
 
 <a href="https://github.com/ayushtechexplorer"><img src="https://img.shields.io/badge/GitHub-ayushtechexplorer-181717?style=flat&logo=github&logoColor=white" alt="GitHub profile: ayushtechexplorer" /></a>
 <a href="https://www.linkedin.com/in/ayushkharel"><img src="https://img.shields.io/badge/LinkedIn-ayushkharel-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile: ayushkharel" /></a>
-<a href="mailto:ayushkharel301@gmail.com"><img src="https://img.shields.io/badge/Gmail-ayushkharel301@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email: ayushkharel301@gmail.com" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushkharel301@gmail.com"><img src="https://img.shields.io/badge/Gmail-ayushkharel301@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email: ayushkharel301@gmail.com" /></a>
 
 </div>
 
@@ -20,7 +20,16 @@ I'm a Python backend developer and BCA student from Butwal, Nepal. I build real,
 - **Interests:** backend development, REST APIs, databases, and building tools that solve real problems
 - **Currently learning:** Django REST Framework
 
+<details>
+<summary><b>More about me</b></summary>
+<br>
 
+- I started with PHP and MySQL (cab and bus booking systems), then moved to Python and Django, which is now my main stack.
+- My final-year project, **SkillGap**, is a Django + PostgreSQL skill-gap analyzer that builds personalized learning paths.
+- I also run a small t-shirt brand called **Bat**, and I enjoy game design in Roblox Studio.
+- I learn best by building: every technology on this profile is one I have used in a real project.
+
+</details>
 
 ---
 
@@ -70,7 +79,7 @@ A free multi-platform video & audio downloader for YouTube, Instagram, Facebook,
 
 <a href="https://github.com/ayushtechexplorer"><img src="https://img.shields.io/badge/GitHub-ayushtechexplorer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: ayushtechexplorer" /></a>
 <a href="https://www.linkedin.com/in/ayushkharel"><img src="https://img.shields.io/badge/LinkedIn-ayushkharel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: ayushkharel" /></a>
-<a href="mailto:ayushkharel301@gmail.com"><img src="https://img.shields.io/badge/Email-ayushkharel301@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: ayushkharel301@gmail.com" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushkharel301@gmail.com"><img src="https://img.shields.io/badge/Email-ayushkharel301@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: ayushkharel301@gmail.com" /></a>
 
 </div>
 
