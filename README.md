@@ -20,16 +20,7 @@ I'm a Python backend developer and BCA student from Butwal, Nepal. I build real,
 - **Interests:** backend development, REST APIs, databases, and building tools that solve real problems
 - **Currently learning:** Django REST Framework
 
-<details>
-<summary><b>More about me</b></summary>
-<br>
 
-- I started with PHP and MySQL (cab and bus booking systems), then moved to Python and Django, which is now my main stack.
-- My final-year project, **SkillGap**, is a Django + PostgreSQL skill-gap analyzer that builds personalized learning paths.
-- I also run a small t-shirt brand called **Bat**, and I enjoy game design in Roblox Studio.
-- I learn best by building: every technology on this profile is one I have used in a real project.
-
-</details>
 
 ---
 
