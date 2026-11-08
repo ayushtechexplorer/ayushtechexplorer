@@ -54,7 +54,6 @@ I'm a Python backend developer and BCA student from Butwal, Nepal. I build real,
 | **Name It Education** | IT education website with courses and student resources | Django, SQLite | [Live](https://nameitedu.com) · [Repo](https://github.com/ayushtechexplorer/Name-it-education) |
 | **Bus Ticket Booking System** | Dynamic online bus ticket booking with seat allocation and admin panel | PHP, MySQL, Tailwind CSS | [Repo](https://github.com/ayushtechexplorer/Bus-ticket-booking-system) |
 | **Cab Booking System** | Online cab booking with passenger, driver, and admin panels | PHP, MySQL, Tailwind CSS | [Repo](https://github.com/ayushtechexplorer/Online_cab_booking_system) |
-| **Student Management System** | Student management system | HTML | [Repo](https://github.com/ayushtechexplorer/Student-management-system) |
 | **Personal Portfolio** | Personal portfolio: skills, projects, education, and contact | Django | — |
 
 > Repository links are shown only where the project is public on GitHub. TopDownloads and SkillGap are listed with their live status instead.
