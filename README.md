@@ -18,19 +18,8 @@ I'm a Python backend developer and BCA student from Butwal, Nepal. I build real,
 
 - **Education:** Bachelor of Computer Applications (BCA), Butwal Kalika College, Tribhuvan University — graduating 2027
 - **Interests:** backend development, REST APIs, databases, and building tools that solve real problems
+  
 - **Currently learning:** Django REST Framework
-
-<details>
-<summary><b>More about me</b></summary>
-<br>
-
-- I started with PHP and MySQL (cab and bus booking systems), then moved to Python and Django, which is now my main stack.
-- My final-year project, **SkillGap**, is a Django + PostgreSQL skill-gap analyzer that builds personalized learning paths.
-- I also run a small t-shirt brand called **Bat**, and I enjoy game design in Roblox Studio.
-- I learn best by building: every technology on this profile is one I have used in a real project.
-
-</details>
-
 ---
 
 ## Tech Stack
@@ -50,10 +39,6 @@ I'm a Python backend developer and BCA student from Butwal, Nepal. I build real,
 ---
 
 ## Featured Projects
-
-### TopDownloads — Live
-
-A free multi-platform video & audio downloader for YouTube, Instagram, Facebook, TikTok, Twitch, and Kick. Paste a public link, pick a format, download — no account needed. Built with Django + Django REST Framework, yt-dlp, and FFmpeg, with the frontend on Cloudflare Workers.
 
 <a href="https://topdownloads.me"><img src="https://img.shields.io/badge/Live-topdownloads.me-00C853?style=for-the-badge" alt="TopDownloads live site" /></a>
 <img src="https://img.shields.io/badge/Python-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Built with Django" />
