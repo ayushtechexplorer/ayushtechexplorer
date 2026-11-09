@@ -17,12 +17,15 @@
 
 ## About Me
 
-I'm a Python backend developer and BCA student from Butwal, Nepal. I build real, working web applications — not just tutorial projects — and I care about clean code, honest features, and shipping things people can actually use.
+Hey! I'm Ayush, a BCA student from Butwal, Nepal, interested in backend development and building web applications.
 
-- **Education:** Bachelor of Computer Applications (BCA), Butwal Kalika College, Tribhuvan University — graduating 2027
-- **Interests:** backend development, REST APIs, databases, and building tools that solve real problems
-  
-- **Currently learning:** Django REST Framework
+I mainly work with Python and Django. I enjoy working on projects involving APIs, databases, and solving practical problems. Most of what I know comes from experimenting, building projects, and figuring things out along the way.
+
+- 🎓 **Education:** BCA, Butwal Kalika College, Tribhuvan University
+- 💻 **Working with:** Python, Django, Django REST Framework
+- 🌱 **Exploring:** JavaScript, Tailwind CSS, Docker, PostgreSQL
+- 🔨 **Currently:** Building projects and improving my development skills
+
 ---
 
 ## Tech Stack
