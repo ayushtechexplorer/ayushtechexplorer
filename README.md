@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Ayush+Kharel;Python+Backend+Developer;Django+%26+Django+REST+Framework;Building+TopDownloads;BCA+Student+%E2%80%94+Class+of+2027" alt="Ayush Kharel — Python Backend Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Ayush+Kharel;Python+Backend+Developer;Building+Web+Applications;Turning+Ideas+Into+Code" alt="Ayush Kharel — Python Backend Developer" />
 
 <br>
 
